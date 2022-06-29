@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Volčok</h1>
-<h3 align="center">Subtitle to change later</h3>
+<h3 align="center">A young 🤓 Java developer from Lithuania 🇱🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilkass&label=Profile%20views&color=0e75b6&style=flat" alt="vilkass" /> </p>
 
